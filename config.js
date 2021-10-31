@@ -1,4 +1,4 @@
-const nameGirl = 'babe à';
+const nameGirl = 'babe a';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100069467642244';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Tặng người ấy';
